@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Muntasir
 #### I am Software Engineer
 
-I like to make native iOS Apps and work on embedded Systems. Also, currently I'm learning backend development
+I like to make native iOS Apps and work on embedded Systems. Also, currently I'm learning web development
 
 Skills: Swift / C / JAVA / Dart
 
