@@ -5,7 +5,7 @@ I like to make native iOS Apps and work on embedded Systems. Also, currently I'm
 
 Skills: Swift / C / JAVA / Dart
 
-- 🌱 I’m currently learning NodeJS 
+- 🌱 I’m currently learning React and Node 
 
  
 
