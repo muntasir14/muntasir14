@@ -23,4 +23,4 @@ Skills: Swift / C / JAVA / Dart
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=muntasir14)  
 
-![Profile views](https://gpvc.arturio.dev/muntasir14)  
+
