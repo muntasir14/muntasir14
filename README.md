@@ -1,12 +1,11 @@
 ### Hi there 👋, my name is Muntasir
 #### I am Software Engineer
 
-I like to make native iOS Apps and work on embedded Systems. Also, currently I'm learning web development
+I like to make native iOS Apps and work on embedded Systems.
 
 Skills: Swift / C / JAVA / Dart
 
-- 🌱 I’m currently learning React and Node 
-
+- 🌱 I'm currently learning about STM32
  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
